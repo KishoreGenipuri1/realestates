@@ -1,0 +1,24 @@
+{
+  "propert": [
+    {
+      "name": "Villa",
+      "type": "Villa.",
+      "id": 1
+    },
+    {
+      "name": "Apartment",
+      "type": "Apt.",
+      "id": 2
+    }
+  ],
+  "agent": [],
+  "properties": [
+    {
+      "type": "Villa",
+      "name": "ABC Prop.",
+      "address": "123, KPHB, Hyd.",
+      "description": "...",
+      "id": 1
+    }
+  ]
+}

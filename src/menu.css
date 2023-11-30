@@ -1,0 +1,11 @@
+.menu{
+    background-color: gray;
+    padding: 10px;
+    margin: 5px;
+
+}
+.menu-item{
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
